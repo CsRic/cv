@@ -35,6 +35,12 @@ Pursue achievemnets of computer science with fun.
 - On behalf of our College, my team competed in PAC.
 - We together parallelized and optimzed the 3D image reconstruction of Cryo-electron microscopy. By using the mix of OpenMP and MPI, and optimizing code compilation, we made the process 100 times faster.
 
+**Unihack 2021**
+
+- My team joined a hackthon hosted by UCLA students. We made a game based on the topic: Make Life Better against COVID-19.
+- Our game, IMPCHAT: Reconnecting by Predicting, is a questionnaire of many general questions to be answered with natural sentences. Our program compared the semantic similarity of different people's answers to tells people if he/she really knows the person on the other side. We hope this game could reconnect people separated by COVID-19 in a innovative way.
+- Proposing the game during brainstorm, I utilized Bert, a NLP model, to make the semantic similarity comparison more presice.
+
 <p align="right">10/2021 – 01/2022</p> 
 
 **SysYF Coding Language Compiler**
